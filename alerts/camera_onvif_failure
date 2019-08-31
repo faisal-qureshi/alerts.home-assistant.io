@@ -1,0 +1,3 @@
+The problem with cameras is still there. Been managing by commenting out lines 166-188 in camera.py.
+
+In version 0.97.2, ONVIF module has gone down completely. It gives a failed to start ONVIF component error, during startup.
